@@ -1,7 +1,7 @@
 /* Row Enter Animation */
 .row-enter {
   opacity: 0;
-  transform: translateY(-10px);
+  transform: translateY(-11px);
 }
 
 .row-enter-active {
