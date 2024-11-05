@@ -6,7 +6,7 @@ import NavBar from "../components/NavBar";
 function Dashboard() {
   return (
     <Container>
-      <NavBar></NavBar>
+      {/* <NavBar></NavBar> */}
       <Typography variant="h4" component="h1" gutterBottom>
         Welcome to the Dashboard
       </Typography>
