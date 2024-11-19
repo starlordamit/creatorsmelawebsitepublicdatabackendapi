@@ -15,6 +15,7 @@ import SettingsPage from "./pages/SettingsPage";
 function App() {
   const authToken = localStorage.getItem("authToken");
 
+  
   return (
     <Router>
       {authToken && <NavBar />}
